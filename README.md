@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ayodeji Ikujuni
 - 👀 I’m interested in Front-end web/app development
-- 🌱 I’m currently learning REACT JS
-- 💞️ I’m looking to collaborate on 
-- 📫 How to reach me ...
+- 🌱 I’m currently learning REACT NATIVE
+- 💞️ I’m looking to collaborate on any frontend project 
+- 📫 How to reach me eniolayodeji@gmail.com || https://www.linkedin.com/in/ayodeji-ikujuni3/
 
 <!---
 Eniolayo/Eniolayo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
