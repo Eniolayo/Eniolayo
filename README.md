@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Ayodeji Ikujuni
-- 👀 I’m interested in Front-end development
 - 💞️ I’m looking to collaborate on any frontend project 
 - 📫 How to reach me eniolayodeji@gmail.com || https://www.linkedin.com/in/ayodeji-ikujuni3/
 
